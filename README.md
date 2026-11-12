@@ -1,4 +1,4 @@
-# hollygloba_manage_frontend
+# _manage_frontend
 
 公共配置 / 公共组件与样式 / 当前页面 / 公共逻辑 / 页面逻辑
 
